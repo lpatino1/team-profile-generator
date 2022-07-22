@@ -16,4 +16,4 @@ Free to use.
 Watch a video:
 <a href="https://drive.google.com/file/d/1qH-pxMEtYkPlEWuk_61IsIKTs28faqBX/view">Link to Google Drive video</a>
 
-![Image of generated html site](./assets/team)
+![Image of generated html site](./assets/team.png)
